@@ -1,0 +1,3 @@
+com\example\entity\People.class
+META-INF\panache-archive.marker
+com\example\repository\PeopleRepository.class
